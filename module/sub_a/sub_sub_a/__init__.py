@@ -1,1 +1,1 @@
-from a import test_function
+from .a import test_function
