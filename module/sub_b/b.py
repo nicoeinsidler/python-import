@@ -20,4 +20,6 @@ print(sys.path)
 
 import module.sub_a.sub_sub_a as a
 
+print(a.__dir__)
+
 print(a.test_function())
